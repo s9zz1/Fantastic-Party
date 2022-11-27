@@ -1,0 +1,97 @@
+body {
+    font-family: sans-serif;
+    background-color: #E4B1AB;
+    font-size:20px;
+}
+header {
+    background-color: #DA5552;
+    font-size:20px;
+    border: 1px solid black;
+    border-radius:5px;
+}
+header a {
+    text-decoration:none;
+    color:#48160b;
+    margin-bottom:15px;
+    display:block;
+    text-align:center;
+}
+header img {
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width: 100px;
+    height:100px ;
+    display:block;
+    margin:0 auto;
+}
+header p {
+    margin-top: 15px;
+    text-align:center;
+}
+main h1 {
+    text-align:center;
+    border:1px solid black;
+    border-radius:10px;
+    background-color:#DA5552 ;
+    color:#E39695;
+
+}
+nav {
+    border:1px solid black;
+    border-radius:5px;
+    background-color: #DA5552;
+    margin-top:15px;
+    margin-bottom:15px;
+    display:block;
+    text-align:center;
+}
+nav a {
+    text-decoration:none;
+    color:
+}
+footer {
+    background-color:#DF7373;
+    border:1px solid black;
+    border-radius:5px;
+}
+footer p {
+    color:#E4B1AB;
+}
+div p {
+    color:#002A78;
+    font-size:20px;
+    text-align:center;
+}
+div {
+    background-color: #CC444B;
+    border:1px solid black;
+    border-radius:5px;
+}
+div img {
+    width:100px;
+    height:100px;
+}
+main {
+    margin-top:15px;
+    margin-bottom:15px;
+}
+main h2 {
+    border:1px solid black;
+    border-radius:5px;
+    text-align:center;
+}
+#discount, #delivery, #wholesale, #about_us, #price  {
+    background-color: #CC444B;
+}
+a {
+    text-decoration: none;
+    color:#C80064;
+}
+h1 {
+    text-transform:uppercase;
+}
+.a {
+    text-align:center;
+    display:block;
+}
